@@ -1,0 +1,6 @@
+export enum ROLES {
+  ADMIN,
+  WAREHOUSE_MANAGER,
+  SALES,
+  LOGISTICS,
+}
